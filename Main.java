@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("HALOO");
+        String name = "NHYL";
+
+        System.out.println(name);
     }
     
 }
